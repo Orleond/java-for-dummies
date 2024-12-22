@@ -48,17 +48,25 @@ ____
 
 &nbsp;
 ### <a name="chapter3">Глава 3. Базовые компоненты Java</a>
-#### Листинг примеров</a>
+#### Листинг примеров
 |Номер листинга|Название класса|Описание|
 |------------|-----------|-------------|
 |Листинг 3.1|[Displayer](https://github.com/Orleond/java-for-dummies/blob/main/src/main/java/com/orleond/Chapters/Chapter3/Displayer.java)|Простейшая программа Java|
 |Листинг 3.6|[Displayer2](https://github.com/Orleond/java-for-dummies/blob/main/src/main/java/com/orleond/Chapters/Chapter3/Displayer2.java)|Три разновидности комментариев|
 
 &nbsp;
+#### Упражнения
+|Название класса|Задание|
+|-----------|-------------|
+|[Displayer](https://github.com/Orleond/java-for-dummies/blob/main/src/main/java/com/orleond/Exercises/Chapter3/Displayer.java)|Попытайтесь выполнить код из листинга 3.1, заменив текст *Вам понравится Java!* текстом *У нас закончились бобы!*.|
+|[Displayer2](https://github.com/Orleond/java-for-dummies/blob/main/src/main/java/com/orleond/Exercises/Chapter3/Displayer2.java)|Попытайтесь выполнить код из листинга 3.1, заменив текст *Вам понравится Java!* текстом *Используйте прямые кавычки ", а не фигурные кавычки \\u201D. К чему это приведет?|
+
+&nbsp;
 ____
 
 &nbsp;
 ### <a name="chapter4">Глава 4. Переменные и значения</a>
+#### Листинг примеров
 |Номер листинга|Название класса|Описание|
 |------------|-----------|-------------|
 |Листинг 4.1|[UsingVariable](https://github.com/Orleond/java-for-dummies/blob/main/src/main/java/com/orleond/Chapters/Chapter4/UsingVariable.java)|Использование переменной|
@@ -68,74 +76,50 @@ ____
 |Листинг 4.5|[Лифт2](https://github.com/Orleond/java-for-dummies/blob/main/src/main/java/com/orleond/Chapters/Chapter4/Лифт2.java)|Использование переменной типа boolean|
 |Листинг 4.6|[ShowAFrame](https://github.com/Orleond/java-for-dummies/blob/main/src/main/java/com/orleond/Chapters/Chapter4/ShowAFrame.java)|Использование ссылочного типа|
 |Листинг 4.7|[MakeChange](https://github.com/Orleond/java-for-dummies/blob/main/src/main/java/com/orleond/Chapters/Chapter4/MakeChange.java)|Программа, выполняющая размен денег|
-|-|[Main](https://github.com/Orleond/java-for-dummies/blob/main/src/main/java/com/orleond/Chapters/Chapter4/Main.java)|Код из пиктограммы "Попробуй"|
 |Листинг 4.8|[UseAssignmentOperators](https://github.com/Orleond/java-for-dummies/blob/main/src/main/java/com/orleond/Chapters/Chapter4/UseAssignmentOperators.java)|Применение операторов присваивания|
-|-|[Main2](https://github.com/Orleond/java-for-dummies/blob/main/src/main/java/com/orleond/Chapters/Chapter4/Main2.java)|Код из пиктограммы "Попробуй"|
+
+&nbsp;
+#### Код из блока "Попробуй"
+|Название класса|Описание|
+|-----------|-------------|
+|[Main](https://github.com/Orleond/java-for-dummies/blob/main/src/main/java/com/orleond/Try/Chapter4/Main.java)|Инкремент и декремент|
+|[Main2](https://github.com/Orleond/java-for-dummies/blob/main/src/main/java/com/orleond/Try/Chapter4/Main2.java)|Операторы присваивания|
+
+&nbsp;
+#### Упражнения
+|Название класса|Задание|
+|-----------|-------------|
+|[Millionaire](https://github.com/Orleond/java-for-dummies/blob/main/src/main/java/com/orleond/Exercises/Chapter4/Millionaire.java)|В результате выполнения кода из листинга 4.2 выводится единственная текстовая строка. С помощью переменной amountInAccount добавьте в программу операторы, чтобы отображалась вторая строка текста. Эта строка может иметь следующий вид: "У вас появилось больше денег! Теперь на вашем счету 2000000.00 долларов".|
+|[Anniversary](https://github.com/Orleond/java-for-dummies/blob/main/src/main/java/com/orleond/Exercises/Chapter4/Anniversary.java)|Мы с женой сыграли свадьбу 29 февраля, поэтому празднуем годовщину свадьбы раз в четыре года. Напишите программу, используя переменную *years*. На основании значения переменной *years* программа отображает количество свадебных юбилеев. Например, если значение переменной years равно 4, то программа выводит фразу *Количество юбилеев: 1*. Если значение переменной *years* равно 7, программа по-прежнему отображает фразу *Количество юбилеев: 1*. Но значение переменной *years* равно 8, то программа выводит *Количество юбилеев: 2*.|
 
 &nbsp;
 ____
 
 &nbsp;
-### <a name="chapter5">Глава 5. Подробнее о типах данных и операторах</a>
+### <a name="chapter5">Глава 5. Управляющие инструкции</a>
+#### Листинг примеров
+|Номер листинга|Название класса|Описание|
+|------------|-----------|-------------|
+|Листинг 5.1|[GuessingGame](https://github.com/Orleond/java-for-dummies/blob/main/src/main/java/com/orleond/Chapters/Chapter5/GuessingGame.java)|Игра с угадыванием числа| 
+|Листинг 5.2|[DontTellThemTheyLost](https://github.com/Orleond/java-for-dummies/blob/main/src/main/java/com/orleond/Chapters/Chapter5/DontTellThemTheyLost.java)|Вариант игры в угадывание числа, щадящий чувства игрока| 
+|Листинг 5.3|[CheckPassword](https://github.com/Orleond/java-for-dummies/blob/main/src/main/java/com/orleond/Chapters/Chapter5/CheckPassword.java)|Проверка пароля, введенного пользователем| 
+|Листинг 5.4|[Authenticator](https://github.com/Orleond/java-for-dummies/blob/main/src/main/java/com/orleond/Chapters/Chapter5/Authenticator.java)|Проверка имени пользователя (username) и пароля (password)|
+|Листинг 5.5|[Authenticator2](https://github.com/Orleond/java-for-dummies/blob/main/src/main/java/com/orleond/Chapters/Chapter5/Authenticator2.java)|Вложенная инструкция if| 
+|Листинг 5.6|[JustSwitchIt](https://github.com/Orleond/java-for-dummies/blob/main/src/main/java/com/orleond/Chapters/Chapter5/JustSwitchIt.java)|Инструкция switch|
+|Листинг 5.7|[FallingForYou](https://github.com/Orleond/java-for-dummies/blob/main/src/main/java/com/orleond/Chapters/Chapter5/FallingForYou.java)|Инструкция switch без оператора break|
+|Листинг 5.8|[JustSwitchIt2](https://github.com/Orleond/java-for-dummies/blob/main/src/main/java/com/orleond/Chapters/Chapter5/JustSwitchIt2.java)|Использование типа String в выражении оператора switch|
+
+&nbsp;
+#### Код из блока "Попробуй"
 |Название класса|Описание|
 |-----------|-------------|
-|[ArrayDemo](https://github.com/Orleond/JavaForBeginners/blob/main/src/Chapters/Chapter5/ArrayDemo.java)|Демонстрация одномерного массива|
-|[MinMax](https://github.com/Orleond/JavaForBeginners/blob/main/src/Chapters/Chapter5/MinMax.java)|Поиск минимального и максимального значений в массиве|
-|[MinMax2](https://github.com/Orleond/JavaForBeginners/blob/main/src/Chapters/Chapter5/MinMax2.java)|Применение инициализаторов массива|
-|[TwoD](https://github.com/Orleond/JavaForBeginners/blob/main/src/Chapters/Chapter5/TwoD.java)|Демонстрация использования двумерного массива|
-|[Ragged](https://github.com/Orleond/JavaForBeginners/blob/main/src/Chapters/Chapter5/Ragged.java)|Выделение памяти по второму индексу массива вручную|
-|[Squares](https://github.com/Orleond/JavaForBeginners/blob/main/src/Chapters/Chapter5/Squares.java)|Инициализация двумерного массива|
-|[AssignARef](https://github.com/Orleond/JavaForBeginners/blob/main/src/Chapters/Chapter5/AssignARef.java)|Присваивание ссылок на массивы|
-|[LengthDemo](https://github.com/Orleond/JavaForBeginners/blob/main/src/Chapters/Chapter5/LengthDemo.java)|Демонстрация использования переменной экземпляра length|
-|[ACopy](https://github.com/Orleond/JavaForBeginners/blob/main/src/Chapters/Chapter5/ACopy.java)|Пример использования переменной length для копирования массивов|
-|[ForEach](https://github.com/Orleond/JavaForBeginners/blob/main/src/Chapters/Chapter5/ForEach.java)|Использование цикла типа for-each|
-|[NoChange](https://github.com/Orleond/JavaForBeginners/blob/main/src/Chapters/Chapter5/NoChange.java)|Циклы for-each предназначены только для чтения|
-|[ForEach2](https://github.com/Orleond/JavaForBeginners/blob/main/src/Chapters/Chapter5/ForEach2.java)|Использование расширенного цикла for для обработки двумерного массива|
-|[Search](https://github.com/Orleond/JavaForBeginners/blob/main/src/Chapters/Chapter5/Search.java)|Поиск в массиве с использованием расширенного цикла for|
-|[StringDemo](https://github.com/Orleond/JavaForBeginners/blob/main/src/Chapters/Chapter5/StringDemo.java)|Знакомство с классом String|
-|[StrOps](https://github.com/Orleond/JavaForBeginners/blob/main/src/Chapters/Chapter5/StrOps.java)|Некоторые операции над строками|
-|[StringArrays](https://github.com/Orleond/JavaForBeginners/blob/main/src/Chapters/Chapter5/StringArrays.java)|Демонстрация использования массивов строк|
-|[SubStr](https://github.com/Orleond/JavaForBeginners/blob/main/src/Chapters/Chapter5/SubStr.java)|Применение метода substring()|
-|[StringSwitch](https://github.com/Orleond/JavaForBeginners/blob/main/src/Chapters/Chapter5/StringSwitch.java)|Использование строк для управления инструкцией switch|
-|[CLDemo](https://github.com/Orleond/JavaForBeginners/blob/main/src/Chapters/Chapter5/CLDemo.java)|Отображение всех данных, указываемых в командной строке|Использование строк для управления инструкцией switch|
-|[Phone](https://github.com/Orleond/JavaForBeginners/blob/main/src/Chapters/Chapter5/Phone.java)|Простейший автоматизированный телефонный справочник|
-|[UpCase](https://github.com/Orleond/JavaForBeginners/blob/main/src/Chapters/Chapter5/UpCase.java)|Преобразование строчных букв английского алфавита в прописные|
-|[ShowBits](https://github.com/Orleond/JavaForBeginners/blob/main/src/Chapters/Chapter5/ShowBits.java)|Отображение битов, составляющих байт|
-|[LowCase](https://github.com/Orleond/JavaForBeginners/blob/main/src/Chapters/Chapter5/LowCase.java)|Преобразование прописных букв английского языка в строчные|
-|[Encode](https://github.com/Orleond/JavaForBeginners/blob/main/src/Chapters/Chapter5/Encode.java)|Использование побитовой операции исключающего ИЛИ для шифрования и дешифрования сообщений|
-|[NotDemo](https://github.com/Orleond/JavaForBeginners/blob/main/src/Chapters/Chapter5/NotDemo.java)|Демонстрация побитовой операции НЕ|
-|[ShiftDemo](https://github.com/Orleond/JavaForBeginners/blob/main/src/Chapters/Chapter5/ShiftDemo.java)|Демонстрация использования операторов << и >>|
-|[NoZeroDiv](https://github.com/Orleond/JavaForBeginners/blob/main/src/Chapters/Chapter5/NoZeroDiv.java)|Предотвращение деления на нуль с помощью оператора ?|
-|[NoZeroDiv2](https://github.com/Orleond/JavaForBeginners/blob/main/src/Chapters/Chapter5/NoZeroDiv2.java)|Предотвращение деления на нуль с помощью оператора ?|
-
-
-&nbsp;
-#### Листинг упражнений
-|Номер упражнения|Название класса|Описание|
-|-----------|-------------|-------------|
-|Упражнение 5.1|[Bubble](https://github.com/Orleond/JavaForBeginners/blob/main/src/Exercises/Exercises5/Bubble.java)|Демонстрация алгоритма пузырьковой сортировки|
-|Упражнение 5.2|[QDemo](https://github.com/Orleond/JavaForBeginners/blob/main/src/Exercises/Exercises5/QDemo.java)|Демонстрация использования класса [Queue](https://github.com/Orleond/JavaForBeginners/blob/main/src/Exercises/Exercises5/Queue.java)|
-|Упражнение 5.3|[ShowBitsDemo](https://github.com/Orleond/JavaForBeginners/blob/main/src/Exercises/Exercises5/ShowBitsDemo.java)|Создание класса для отображения значений в двоичном виде. Реализуется при помощи класса [ShowBits](https://github.com/Orleond/JavaForBeginners/blob/main/src/Exercises/Exercises5/ShowBits.java)|
-
-
-&nbsp;
-#### Листинг ответов на упражнения для самопроверки из книги
-|Номер задания|Название класса|Описание|
-|-----------|-------------|-------------|
-|Задание 3|[Avg](https://github.com/Orleond/JavaForBeginners/blob/main/src/SelfTests/SelfTests5/Avg.java)|Среднее арифметическое 10 значений типа double|
-|Задание 4|[StrBubble](https://github.com/Orleond/JavaForBeginners/blob/main/src/SelfTests/SelfTests5/StrBubble.java)|Демонстрация алгоритма пузырьковой сортировки строк|
-|Задание 7|[Encode](https://github.com/Orleond/JavaForBeginners/blob/main/src/SelfTests/SelfTests5/Encode.java)|Улучшенный вариант программы шифрования сообщений с помощью побитовой операции исключающего ИЛИ|
-|Задание 13|[MinMax](https://github.com/Orleond/JavaForBeginners/blob/main/src/SelfTests/SelfTests5/MinMax.java)|Поиск минимального и максимального значений в массиве|
-
-
-&nbsp;
-#### Листинг моих решений упражнений для самопроверки из книги
-|Номер задания|Название класса|Описание|
-|-----------|-------------|-------------|
-|Задание 3|[Homework1](https://github.com/Orleond/JavaForBeginners/blob/main/src/Homeworks/Homeworks5/Homework1.java)|Среднее арифметическое 10 значений типа double|
-|Задание 4|[Homework2](https://github.com/Orleond/JavaForBeginners/blob/main/src/Homeworks/Homeworks5/Homework2.java)|Демонстрация алгоритма пузырьковой сортировки строк|
-|Задание 7|[Homework3](https://github.com/Orleond/JavaForBeginners/blob/main/src/Homeworks/Homeworks5/Homework3.java)|Улучшенный вариант программы шифрования сообщений с помощью побитовой операции исключающего ИЛИ|
-|Задание 13|[Homework4](https://github.com/Orleond/JavaForBeginners/blob/main/src/Homeworks/Homeworks5/Homework4.java)|Поиск минимального и максимального значений в массиве|
+|[Лифт2](https://github.com/Orleond/java-for-dummies/blob/main/src/main/java/com/orleond/Try/Chapter5/%D0%9B%D0%B8%D1%84%D1%822.java)|Переделанный класс [Лифт2](https://github.com/Orleond/java-for-dummies/blob/main/src/main/java/com/orleond/Chapters/Chapter4/Лифт2.java) c использованием оператора if|
+|[Authenticator](https://github.com/Orleond/java-for-dummies/blob/main/src/main/java/com/orleond/Try/Chapter5/Authenticator.java)|В список допустимых вариантов входа в программу добавьте третью комбинацию "имя пользователя/пароль"|
+|[Authenticator2](https://github.com/Orleond/java-for-dummies/blob/main/src/main/java/com/orleond/Try/Chapter5/Authenticator2.java)|Измените условие инструкции if таким образом, чтобы допускать ввод имени пользователя с использованием верхнего регистра символов. Другими словами, ввод **BBURD** приведет к тому же результату, что и ввод **bburd**, а ввод **HRITTER** даст тот же результат, что и ввод **hritter**|
+|[Authenticator3](https://github.com/Orleond/java-for-dummies/blob/main/src/main/java/com/orleond/Try/Chapter5/Authenticator3.java)|В листинге 5.4 измените `username != null && password != null` на `!(username == null \|\| password == null)`|
+|[Authenticator4](https://github.com/Orleond/java-for-dummies/blob/main/src/main/java/com/orleond/Try/Chapter5/Authenticator4.java)|Измените программу из листинга 5.4 таким образом, чтобы после щелчка пользователем на кнопке Cancel при вводе имени пользователя или пароля программа отображала сообщение *Недостаточно информации*|
+|[DaysInAMonth](https://github.com/Orleond/java-for-dummies/blob/main/src/main/java/com/orleond/Try/Chapter5/DaysInAMonth.java)|Напишите программу, которая считывает название месяца и отображает количество дней в этом месяце. Для простоты в первой версии программы примите, что в феврале всего 28 дней|
+|[DaysInAMonth2](https://github.com/Orleond/java-for-dummies/blob/main/src/main/java/com/orleond/Try/Chapter5/DaysInAMonth2.java)|Попробуйте улучшить свой код. Пусть пользователь, как и раньше, вводит название месяца, но при этом еще и указывает на то, будет ли данный год високосным|
 
 &nbsp;
 ____
