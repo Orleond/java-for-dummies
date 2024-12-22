@@ -41,7 +41,7 @@ ____
 #### Листинг примеров
 |Номер листинга|Название класса|Описание|
 |------------|-----------|-------------|
-|[SearchFreeRoom](https://github.com/Orleond/java-for-dummies/blob/main/src/main/java/com/orleond/ChaptersChapter2/SearchFreeRoom.java)|Поиск свободного номера|
+|Листинг 2.1|[SearchFreeRoom](https://github.com/Orleond/java-for-dummies/blob/main/src/main/java/com/orleond/ChaptersChapter2/SearchFreeRoom.java)|Поиск свободного номера|
 
 &nbsp;
 ____
