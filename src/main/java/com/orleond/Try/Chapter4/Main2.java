@@ -1,4 +1,4 @@
-package com.orleond.Chapters.Chapter4;
+package com.orleond.Try.Chapter4;
 
 public class Main2 {
     public static void main(String[] args) {
