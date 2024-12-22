@@ -47,38 +47,12 @@ ____
 ____
 
 &nbsp;
-### <a name="chapter3">Глава 3. Управляющие конструкции</a>
+### <a name="chapter3">Глава 3. Базовые компоненты Java</a>
 #### Листинг примеров</a>
-|Название класса|Описание|
-|-----------|-------------|
-|[KbIn](https://github.com/Orleond/JavaForBeginners/blob/main/src/Chapters/Chapter3/KbIn.java)|Чтение символа с клавиатуры|
-|[Guess](https://github.com/Orleond/JavaForBeginners/blob/main/src/Chapters/Chapter3/Guess.java)|Игра в угадывание букв|
-|[Guess2](https://github.com/Orleond/JavaForBeginners/blob/main/src/Chapters/Chapter3/Guess2.java)|Игра в угадывание букв, вторая версия|
-|[Guess3](https://github.com/Orleond/JavaForBeginners/blob/main/src/Chapters/Chapter3/Guess3.java)|Игра в угадывание букв, третья версия|
-|[Ladder](https://github.com/Orleond/JavaForBeginners/blob/main/src/Chapters/Chapter3/Ladder.java)|Демонстрация использования многоступенчатой конструкции if-else-if|
-|[SwitchDemo](https://github.com/Orleond/JavaForBeginners/blob/main/src/Chapters/Chapter3/SwitchDemo.java)|Демонстрация использования инструкции switch|
-|[NoBreak](https://github.com/Orleond/JavaForBeginners/blob/main/src/Chapters/Chapter3/NoBreak.java)|Демонстрация использования инструкции switch без break|
-|[SqrRoot](https://github.com/Orleond/JavaForBeginners/blob/main/src/Chapters/Chapter3/SqrRoot.java)|Вывод квадратных корней чисел от 1 до 99 вместе с ошибкой окрушления|
-|[DecrFor](https://github.com/Orleond/JavaForBeginners/blob/main/src/Chapters/Chapter3/DecrFor.java)|Цикл for, выполняющийся с отрицательным приращением переменной|
-|[Comma](https://github.com/Orleond/JavaForBeginners/blob/main/src/Chapters/Chapter3/Comma.java)|Применение запятых в определении цикла for|
-|[ForTest](https://github.com/Orleond/JavaForBeginners/blob/main/src/Chapters/Chapter3/ForTest.java)|Выполнение цикла до тех пор, пока с клавиатуры не будет введена буква S|
-|[Empty](https://github.com/Orleond/JavaForBeginners/blob/main/src/Chapters/Chapter3/Empty.java)|Пропуск отдельных составляющих в определении цикла for|
-|[Empty2](https://github.com/Orleond/JavaForBeginners/blob/main/src/Chapters/Chapter3/Empty2.java)|Пропуск отдельных составляющих в определении цикла for|
-|[Empty3](https://github.com/Orleond/JavaForBeginners/blob/main/src/Chapters/Chapter3/Empty3.java)|Тело цикла for может быть пустым|
-|[ForVar](https://github.com/Orleond/JavaForBeginners/blob/main/src/Chapters/Chapter3/ForVar.java)|Объявление переменной цикла в самом цикле for|
-|[WhileDemo](https://github.com/Orleond/JavaForBeginners/blob/main/src/Chapters/Chapter3/WhileDemo.java)|Демонстрация использования цикла while|
-|[Power](https://github.com/Orleond/JavaForBeginners/blob/main/src/Chapters/Chapter3/Power.java)|Вычисление целых степеней числа 2|
-|[DWDemo](https://github.com/Orleond/JavaForBeginners/blob/main/src/Chapters/Chapter3/DWDemo.java)|Демонстрация использования цикла do-while|
-|[Guess4](https://github.com/Orleond/JavaForBeginners/blob/main/src/Chapters/Chapter3/Guess4.java)|Игра в угадывание букв, четвертая версия|
-|[BreakDemo](https://github.com/Orleond/JavaForBeginners/blob/main/src/Chapters/Chapter3/BreakDemo.java)|Применение инструкции break для выхода из цикла|
-|[Break2](https://github.com/Orleond/JavaForBeginners/blob/main/src/Chapters/Chapter3/Break2.java)|Чтение вводимых данных до тех пор, пока не будет получена буква q|
-|[Break3](https://github.com/Orleond/JavaForBeginners/blob/main/src/Chapters/Chapter3/Break3.java)|Применение инструкции break во вложенных циклах|
-|[Break4](https://github.com/Orleond/JavaForBeginners/blob/main/src/Chapters/Chapter3/Break4.java)|Получение инструкции break с меткой|
-|[Break5](https://github.com/Orleond/JavaForBeginners/blob/main/src/Chapters/Chapter3/Break5.java)|Еще один пример применения инструкции break с меткой|
-|[Break6](https://github.com/Orleond/JavaForBeginners/blob/main/src/Chapters/Chapter3/Break6.java)|Расположение метки имеет большое значение|
-|[ContDemo](https://github.com/Orleond/JavaForBeginners/blob/main/src/Chapters/Chapter3/ContDemo.java)|Применение инструкции continue|
-|[ContToTable](https://github.com/Orleond/JavaForBeginners/blob/main/src/Chapters/Chapter3/ContToTable.java)|Применение инструкции continue с меткой|
-|[FindFac](https://github.com/Orleond/JavaForBeginners/blob/main/src/Chapters/Chapter3/FindFac.java)|Использование вложенных циклов для нахождения делителей чисел от 2 до 100|
+|Номер листинга|Название класса|Описание|
+|------------|-----------|-------------|
+|Листинг 3.1||[Displayer](https://github.com/Orleond/java-for-dummies/blob/main/src/main/java/com/orleond/Chapters/Chapter3/Displayer.java)|Простейшая программа Java|
+|Листинг 3.6||[Displayer2](https://github.com/Orleond/java-for-dummies/blob/main/src/main/java/com/orleond/Chapters/Chapter3/Displayer2.java)|Три разновидности комментариев|
 
 
 &nbsp;
