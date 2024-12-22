@@ -31,7 +31,7 @@ ____
 #### Листинг примеров
 |Название класса|Описание|
 |-------------|-------------|
-[PayBarry](https://github.com/Orleond/java-for-dummies/blob/main/src/main/java/com/orleond/ChaptersChapter1/PayBarry.java)|Пример кода, написанного на Java|
+[PayBarry](https://github.com/Orleond/java-for-dummies/blob/main/src/main/java/com/orleond/Chapters/Chapter1/PayBarry.java)|Пример кода, написанного на Java|
 
 &nbsp;
 ____
@@ -41,7 +41,7 @@ ____
 #### Листинг примеров
 |Номер листинга|Название класса|Описание|
 |------------|-----------|-------------|
-|Листинг 2.1|[SearchFreeRoom](https://github.com/Orleond/java-for-dummies/blob/main/src/main/java/com/orleond/ChaptersChapter2/SearchFreeRoom.java)|Поиск свободного номера|
+|Листинг 2.1|[SearchFreeRoom](https://github.com/Orleond/java-for-dummies/blob/main/src/main/java/com/orleond/Chapters/Chapter2/SearchFreeRoom.java)|Поиск свободного номера|
 
 &nbsp;
 ____
@@ -51,68 +51,26 @@ ____
 #### Листинг примеров</a>
 |Номер листинга|Название класса|Описание|
 |------------|-----------|-------------|
-|Листинг 3.1||[Displayer](https://github.com/Orleond/java-for-dummies/blob/main/src/main/java/com/orleond/Chapters/Chapter3/Displayer.java)|Простейшая программа Java|
-|Листинг 3.6||[Displayer2](https://github.com/Orleond/java-for-dummies/blob/main/src/main/java/com/orleond/Chapters/Chapter3/Displayer2.java)|Три разновидности комментариев|
-
-
-&nbsp;
-#### Листинг упражнений
-|Номер упражнения|Название класса|Описание|
-|-----------|-------------|-------------|
-|Упражнение 3.1|[Help](https://github.com/Orleond/JavaForBeginners/blob/main/src/Exercises/Exercises3/Help.java)|Простая справочная система|
-|Упражнение 3.2|[Help2](https://github.com/Orleond/JavaForBeginners/blob/main/src/Exercises/Exercises3/Help2.java)|Расширенная справочная система, в которой для обработки результатов выбора из меню используется цикл do-while|
-|Упражнение 3.3|[Help3](https://github.com/Orleond/JavaForBeginners/blob/main/src/Exercises/Exercises3/Help3.java)|Завершенная справочная система по управляющим инструкциям Java, обрабатывающая многократные запросы|
-
-
-&nbsp;
-#### Листинг ответов на упражнения для самопроверки из книги
-|Номер задания|Название класса|Описание|
-|-----------|-------------|-------------|
-|Задание 1|[Spaces](https://github.com/Orleond/JavaForBeginners/blob/main/src/SelfTests/SelfTests3/Spaces.java)|Подсчет пробелов|
-|Задание 9|[Progress](https://github.com/Orleond/JavaForBeginners/blob/main/src/SelfTests/SelfTests3/Progress.java)|Использование цикла for для формирования геометрической прогрессии: 1, 2, 4, 8, 16, 32...|
-|Задание 10|[CaseChg](https://github.com/Orleond/JavaForBeginners/blob/main/src/SelfTests/SelfTests3/CaseChg.java)|Смена регистра символов|
-
-
-&nbsp;
-#### Листинг моих решений упражнений для самопроверки из книги
-|Номер задания|Название класса|Описание|
-|-----------|-------------|-------------|
-|Задание 1|[Homework1](https://github.com/Orleond/JavaForBeginners/blob/main/src/Homeworks/Homeworks3/Homework1.java)|Подсчет пробелов|
-|Задание 4|[Homework2](https://github.com/Orleond/JavaForBeginners/blob/main/src/Homeworks/Homeworks3/Homework2.java)|Цикл for с перебором от 1000 до 0 с шагом 2|
-|Задание 9|[Homework3](https://github.com/Orleond/JavaForBeginners/blob/main/src/Homeworks/Homeworks3/Homework3.java)|Использование цикла for для формирования геометрической прогрессии: 1, 2, 4, 8, 16, 32...|
-|Задание 10|[Homework4](https://github.com/Orleond/JavaForBeginners/blob/main/src/Homeworks/Homeworks3/Homework4.java)|Смена регистра символов|
+|Листинг 3.1|[Displayer](https://github.com/Orleond/java-for-dummies/blob/main/src/main/java/com/orleond/Chapters/Chapter3/Displayer.java)|Простейшая программа Java|
+|Листинг 3.6|[Displayer2](https://github.com/Orleond/java-for-dummies/blob/main/src/main/java/com/orleond/Chapters/Chapter3/Displayer2.java)|Три разновидности комментариев|
 
 &nbsp;
 ____
 
 &nbsp;
-### <a name="chapter4">Глава 4. Знакомство с классами, объектами и методами</a>
-|Название класса|Описание|
-|-----------|-------------|
-|[Vehicle](https://github.com/Orleond/JavaForBeginners/blob/main/src/Chapters/Chapter4/Vehicle.java)|Класс, предназначенный для тестирования другими классами|
-|[VehicleDemo](https://github.com/Orleond/JavaForBeginners/blob/main/src/Chapters/Chapter4/VehicleDemo.java)|Программа, в которой используетс класс [Vehicle](https://github.com/Orleond/JavaForBeginners/blob/main/src/Chapters/Chapter4/Vehicle.java)|
-|[TwoVehicles](https://github.com/Orleond/JavaForBeginners/blob/main/src/Chapters/Chapter4/TwoVehicles.java)|В этой программе создаются два объекта класса [Vehicle](https://github.com/Orleond/JavaForBeginners/blob/main/src/Chapters/Chapter4/Vehicle.java)|
-|[AddMeth](https://github.com/Orleond/JavaForBeginners/blob/main/src/Chapters/Chapter4/AddMeth.java)|Добавление метода range() в класс [Vehicle](https://github.com/Orleond/JavaForBeginners/blob/main/src/Chapters/Chapter4/Vehicle2.java)|
-|[RetMeth](https://github.com/Orleond/JavaForBeginners/blob/main/src/Chapters/Chapter4/RetMeth.java)|Использование возвращаемого значения в методе range() класса [Vehicle](https://github.com/Orleond/JavaForBeginners/blob/main/src/Chapters/Chapter4/Vehicle3.java)|
-|[ChkNum](https://github.com/Orleond/JavaForBeginners/blob/main/src/Chapters/Chapter4/ChkNum.java)|Простой пример применения параметра в методе|
-|[ParmDemo](https://github.com/Orleond/JavaForBeginners/blob/main/src/Chapters/Chapter4/ParmDemo.java)|Простой пример применения параметра в методе из класса [ChkNum](https://github.com/Orleond/JavaForBeginners/blob/main/src/Chapters/Chapter4/ChkNum.java)|
-|[Factor](https://github.com/Orleond/JavaForBeginners/blob/main/src/Chapters/Chapter4/Factor.java)|Простой пример применения двух параметров в методе|
-|[IsFact](https://github.com/Orleond/JavaForBeginners/blob/main/src/Chapters/Chapter4/IsFact.java)|Простой пример применения двух параметров в методе из класса [Factor](https://github.com/Orleond/JavaForBeginners/blob/main/src/Chapters/Chapter4/Factor.java)|
-|[CompFuel](https://github.com/Orleond/JavaForBeginners/blob/main/src/Chapters/Chapter4/CompFuel.java)|Добавление параметризированного метода, в котором выполняется расчет объема топлива, необходимого транспортному средству для преодоления заданного расстояния из класса [Vehicle](https://github.com/Orleond/JavaForBeginners/blob/main/src/Chapters/Chapter4/Vehicle4.java)|
-|[ConsDemo](https://github.com/Orleond/JavaForBeginners/blob/main/src/Chapters/Chapter4/ConsDemo.java)|Класс, созданный для демонстрации работы конструктора класса [MyClass](https://github.com/Orleond/JavaForBeginners/blob/main/src/Chapters/Chapter4/MyClass.java)|
-|[ParmConsDemo](https://github.com/Orleond/JavaForBeginners/blob/main/src/Chapters/Chapter4/ParmDemo.java)|Класс, созданный для демонстрации работы параметризированного конструктора класса [MyClass](https://github.com/Orleond/JavaForBeginners/blob/main/src/Chapters/Chapter4/MyClass2.java)|
-|[VehConsDemo](https://github.com/Orleond/JavaForBeginners/blob/main/src/Chapters/Chapter4/VehConsDemo.java)|Добавление конструктора в классе [Vehicle](https://github.com/Orleond/JavaForBeginners/blob/main/src/Chapters/Chapter4/Vehicle5.java)|
-|[DemoPwr](https://github.com/Orleond/JavaForBeginners/blob/main/src/Chapters/Chapter4/DemoPwr.java)|Возведение в степень заданного числа через класс [Pwr](https://github.com/Orleond/JavaForBeginners/blob/main/src/Chapters/Chapter4/Pwr.java)|
-
-
-&nbsp;
-#### Листинг упражнений
-|Номер упражнения|Название класса|Описание|
-|-----------|-------------|-------------|
-|Упражнение 4.1|[HelpClassDemo](https://github.com/Orleond/JavaForBeginners/blob/main/src/Exercises/Exercises4/HelpClassDemo.java)|Преобразование в класс [Help](https://github.com/Orleond/JavaForBeginners/blob/main/src/Exercises/Exercises4/Help.java) справочной системы из упражнения 3.3|
-
-
-_В 4 главе отсутствуют упражнения для самопроверки, в которых необходимо писать код._
+### <a name="chapter4">Глава 4. Переменные и значения</a>
+|Номер листинга|Название класса|Описание|
+|------------|-----------|-------------|
+|Листинг 4.1|[UsingVariable](https://github.com/Orleond/java-for-dummies/blob/main/src/main/java/com/orleond/Chapters/Chapter4/UsingVariable.java)|Использование переменной|
+|Листинг 4.2|[Millionaire](https://github.com/Orleond/java-for-dummies/blob/main/src/main/java/com/orleond/Chapters/Chapter4/Millionaire.java)|Программа, в которой используется переменная amountInAccount|
+|Листинг 4.3|[Лифт](https://github.com/Orleond/java-for-dummies/blob/main/src/main/java/com/orleond/Chapters/Chapter4/Лифт.java)|Использование типа int|
+|Листинг 4.4|[CharDemo](https://github.com/Orleond/java-for-dummies/blob/main/src/main/java/com/orleond/Chapters/Chapter4/CharDemo.java)|Использование типа char|
+|Листинг 4.5|[Лифт2](https://github.com/Orleond/java-for-dummies/blob/main/src/main/java/com/orleond/Chapters/Chapter4/Лифт2.java)|Использование переменной типа boolean|
+|Листинг 4.6|[ShowAFrame](https://github.com/Orleond/java-for-dummies/blob/main/src/main/java/com/orleond/Chapters/Chapter4/ShowAFrame.java)|Использование ссылочного типа|
+|Листинг 4.7|[MakeChange](https://github.com/Orleond/java-for-dummies/blob/main/src/main/java/com/orleond/Chapters/Chapter4/MakeChange.java)|Программа, выполняющая размен денег|
+|-|[Main](https://github.com/Orleond/java-for-dummies/blob/main/src/main/java/com/orleond/Chapters/Chapter4/Main.java)|Код из пиктограммы "Попробуй"|
+|Листинг 4.8|[UseAssignmentOperators](https://github.com/Orleond/java-for-dummies/blob/main/src/main/java/com/orleond/Chapters/Chapter4/UseAssignmentOperators.java)|Применение операторов присваивания|
+|-|[Main2](https://github.com/Orleond/java-for-dummies/blob/main/src/main/java/com/orleond/Chapters/Chapter4/Main2.java)|Код из пиктограммы "Попробуй"|
 
 &nbsp;
 ____
