@@ -1,4 +1,4 @@
-package com.orleond.ChaptersChapter2;
+package com.orleond.Chapters.Chapter2;
 /*
  * Код, находящийся в блоке public static void main является
  * примером из книги. Весь остальной код дописан для того,

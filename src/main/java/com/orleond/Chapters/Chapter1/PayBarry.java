@@ -1,4 +1,4 @@
-package com.orleond.ChaptersChapter1;
+package com.orleond.Chapters.Chapter1;
 
 public class PayBarry {
     public static void main(String[] args) {
